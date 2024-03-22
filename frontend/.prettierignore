@@ -1,0 +1,12 @@
+# Ignored directories
+.vscode
+.yarn
+coverage
+dist
+node_modules
+
+# Ignored files
+.eslintignore
+.gitignore
+.nvmrc
+.prettierignore
